@@ -1,0 +1,52 @@
+[
+  {
+    "nome": "Contato 1",
+    "status": "ativo",
+    "foto": "https://randomuser.me/api/portraits/women/1.jpg"
+  },
+  {
+    "nome": "Contato 2",
+    "status": "ativo",
+    "foto": "https://randomuser.me/api/portraits/men/2.jpg"
+  },
+  {
+    "nome": "Contato 3",
+    "status": "ativo",
+    "foto": "https://randomuser.me/api/portraits/men/3.jpg"
+  },
+  {
+    "nome": "Contato 4",
+    "status": "ativo",
+    "foto": "https://randomuser.me/api/portraits/women/4.jpg"
+  },
+  {
+    "nome": "Contato 5",
+    "status": "ativo",
+    "foto": "https://randomuser.me/api/portraits/women/5.jpg"
+  },
+  {
+    "nome": "Contato 6",
+    "status": "ativo",
+    "foto": "https://randomuser.me/api/portraits/men/6.jpg"
+  },
+  {
+    "nome": "Contato 7",
+    "status": "ativo",
+    "foto": "https://randomuser.me/api/portraits/women/7.jpg"
+  },
+  {
+    "nome": "Contato 8",
+    "status": "ativo",
+    "foto": "https://randomuser.me/api/portraits/men/8.jpg"
+  },
+  {
+    "nome": "Contato 9",
+    "status": "ativo",
+    "foto": "https://randomuser.me/api/portraits/women/9.jpg"
+  },
+  {
+    "nome": "Contato 10",
+    "status": "ativo",
+    "foto": "https://randomuser.me/api/portraits/men/10.jpg"
+  }
+]
